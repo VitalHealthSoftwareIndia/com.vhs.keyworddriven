@@ -2126,7 +2126,6 @@ public class ActionKeywords extends JFrame {
 		lblPleaseWaitTill.setBounds(0, 0, 240, 120);
 		contentPane.add(lblPleaseWaitTill);
 		frame1.setVisible(true);
-
 	}
 
 }

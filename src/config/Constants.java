@@ -4,8 +4,8 @@ public class Constants
 {
 	public static final String Path_WorkingFolder="workingFolder.properties";
 	public static final String Path_Log4jConfiguraton="Log4jConfiguration//log4j.properties";
-	public static final String Download_ExcelWeb="https://github.com/AshwinKarangutkar/com.vhs.keyworddriven/blob/master/src/dataEngine/DataEngineWeb.xlsx?raw=true";
-	public static final String Download_ExcelMobile="https://github.com/AshwinKarangutkar/com.vhs.keyworddriven/blob/master/src/dataEngine/DataEngineMobile.xlsx?raw=true";
+	public static final String Download_ExcelWeb="https://github.com/VitalHealthSoftwareIndia/com.vhs.keyworddriven/blob/master/src/dataEngine/DataEngineWeb.xlsx?raw=true";
+	public static final String Download_ExcelMobile="https://github.com/VitalHealthSoftwareIndia/com.vhs.keyworddriven/blob/master/src/dataEngine/DataEngineMobile.xlsx?raw=true";
     public static final String Excel_NameWeb="DataEngineWeb.xlsx";
     public static final String Excel_NameMobile="DataEngineMobile.xlsx";
 
